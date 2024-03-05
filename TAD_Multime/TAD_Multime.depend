@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1709392242 source:d:\facultate\oop\lab1\tad_multime\app.cpp
+	<iostream>
+	"TestExtins.h"
+	"TestScurt.h"
+
+1709381172 d:\facultate\oop\lab1\tad_multime\testscurt.h
+
+1709398176 source:d:\facultate\oop\lab1\tad_multime\iteratormultime.cpp
+	"IteratorMultime.h"
+	"Multime.h"
+
+1709397826 d:\facultate\oop\lab1\tad_multime\iteratormultime.h
+	"Multime.h"
+
+1709387310 d:\facultate\oop\lab1\tad_multime\multime.h
+
+1709393134 source:d:\facultate\oop\lab1\tad_multime\multime.cpp
+	"Multime.h"
+	"IteratorMultime.h"
+	<iostream>
+	<exception>
+	<stdio.h>
+
+1709391546 source:d:\facultate\oop\lab1\tad_multime\testextins.cpp
+	"Multime.h"
+	"IteratorMultime.h"
+	<assert.h>
+	"TestExtins.h"
+
+1709381172 d:\facultate\oop\lab1\tad_multime\testextins.h
+
+1709396389 source:d:\facultate\oop\lab1\tad_multime\testscurt.cpp
+	"TestScurt.h"
+	"Multime.h"
+	"IteratorMultime.h"
+	<assert.h>
+	<stdio.h>
+
